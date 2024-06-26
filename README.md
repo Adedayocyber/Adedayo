@@ -3,7 +3,7 @@
 Certified Cyber Security Professional |Recent Graduate|
 
 ## Profile Summary
-Passionate about cybersecurity and dedicated to protecting digital assets, I am an entry-level professional eager to contribute to the field. With a solid foundation in cybersecurity principlles and core skills, including risk assessment, incident response, and network security, I am ready to tackle new challenges. I am committed to continuous learning and development, and I look forward to leveraging my skills to enhance cybersecurity practices and secure digital environments. 
+Passionate about cybersecurity and dedicated to protecting digital assets, I am an entry-level professional eager to contribute to the field. With a solid foundation in cybersecurity principles and core skills, including risk assessment, incident response, and network security, I am ready to tackle new challenges. I am committed to continuous learning and development, and I look forward to leveraging my skills to enhance cybersecurity practices and secure digital environments. 
 
 ### Key Skills 
 - Network Security: Understanding of network protocols, firewalls, and intrusion detection/prevention systems.
